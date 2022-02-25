@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ant-design-vue-pro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mysite/django-simple-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vue-admin-better" vcs="Git" />
+  </component>
+</project>
